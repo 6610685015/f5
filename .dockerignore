@@ -1,5 +1,4 @@
 **/__pycache__
-**/*.py[cod]
 **/.venv
 **/.classpath
 **/.dockerignore
@@ -24,9 +23,5 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
-**/venv
-
-**/LICENSE
-**/README.md
-**/name.db
-
+LICENSE
+README.md
